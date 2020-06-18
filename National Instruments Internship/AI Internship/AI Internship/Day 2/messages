@@ -1,0 +1,17 @@
+Kaggle Tutorial: https://youtu.be/-TrKGxICBL4
+
+##2
+
+The easiest way to upload files to both Kaggle and Colab is to upload your file to Google Drive first. 
+
+Then install this if you are using chrome: https://chrome.google.com/webstore/detail/curlwget/jmocjfidanebdlinpbcdkcmgdifblncg?hl=en
+
+Or this if you are using Firefox: https://addons.mozilla.org/en-US/firefox/addon/cliget/
+
+Then try to download the file you uploaded to drive. Now the system will ask you where to save. Click cancel and stop the download. Then click on the extension I have mentioned above. You will find a lengthy link(command) starting with 'wget'. Copy this link and paste it in Kaggle/Colab after adding ! before the lengthy link(command). Now the file will be downloaded into whatever notebook you are working with
+
+##3
+
+Link to the online Jupyter notebooks: kaggle.com/notebooks/
+
+
